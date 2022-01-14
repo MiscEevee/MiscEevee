@@ -1,16 +1,16 @@
-### Hi there 👋
+## Ohayo!
+---
+<center>
+    <i>No social accounts.. yet.</i>
+</center>
 
-<!--
-**MiscEevee/MiscEevee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\- 🔭 I’m currently working on Nothing. \
+\- 🌱 I’m currently learning CI @ GitHub. \
+\- 👯 I’m looking to collaborate on OSS. \
+\- 🤔 I’m looking for help with life, how to navigate it and how to improve it. \
+\- 💬 Ask me about what I do for a living. It's going to be a bland answer though. \
+\- 📫 How to reach me: Will be linked soon. \
+\- 😄 Pronouns: he/they \
+\- ⚡ Fun fact: I program stuff but it always breaks.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Jokes Card](https://readme-jokes.vercel.app/api)
